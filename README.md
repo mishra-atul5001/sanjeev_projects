@@ -1,7 +1,10 @@
 # sanjeev_projects
 warning in jupiter notebook: C:\Users\sanje\anaconda3\lib\site-packages\PIL\Image.py:962: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  warnings.warn(
-  error in pycharm:
+  warnings.warn(         
+  
+  
+  
+  error in pycharm:        
   File "C:\Users\sanje\PycharmProjects\facemaskdetection\mask_detect_train.py", line 34, in <module>
     image = img_to_array(image)
   File "C:\Users\sanje\PycharmProjects\facemaskdetection\venv\lib\site-packages\tensorflow\python\keras\preprocessing\image.py", line 228, in img_to_array
